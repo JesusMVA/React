@@ -3,7 +3,8 @@ import './App.css';
 import NavScrollExample from './components/NavbarApp/NavbarApp';
 import CarouselFadeExample from './components/SliderApp/SliderApp';
 import TextApp from './components/TextApp/TextApp';
-import GroupExample from './components/CardApp/CardApp'
+import GroupExample from './components/CardApp/CardApp';
+import FooterApp from './components/FooterApp/FooterApp';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
     <CarouselFadeExample/>
     <TextApp/>
     <GroupExample/>
+    <FooterApp/>
     </div>
   );
 }
