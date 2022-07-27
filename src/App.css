@@ -30,11 +30,26 @@ nav{
 .card{
   margin: 150px;
   border: 1px black;
+  
 
 }
 
+.card-body{
+  background: rgba(119, 255, 0, 0.7);
+  border-radius: 5px;
+ 
+}
+
+
 .card img{
   height: 250px;
+}
+
+Footer{
+  background: rgba(2, 209, 60, 0.7);
+  margin-top: 100px;
+  padding: 10px;
+  color: white;
 }
 
 

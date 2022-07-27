@@ -13,7 +13,7 @@ function GroupExample() {
         <Card.Text>
         ¡Forja tu propio camino en Hollow Knight! Una aventura épica a través de un vasto reino de insectos y héroes que se encuentra en ruinas. Explora cavernas tortuosas, combate contra criaturas corrompidas y entabla amistad con extraños insectos, todo en un estilo clásico en 2D dibujado
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="success">Ver mas</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
@@ -23,7 +23,7 @@ function GroupExample() {
         <Card.Text>
         Call of Duty es una serie de videojuegos de disparos en primera persona, de estilo bélico, desarrollada principal e inicialmente por Infinity Ward, Treyarch, Sledgehammer Games y en menor proporción Raven Software y distribuida por Activision
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="success">Ver mas</Button>
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
@@ -33,7 +33,7 @@ function GroupExample() {
         <Card.Text>
         Apex Legends es un videojuego gratuito perteneciente a los géneros battle royale y hero shooter en primera persona, desarrollado por Respawn Entertainment y publicado por Electronic Arts. Fue lanzado para Microsoft Windows,
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="success">Ver mas</Button>
       </Card.Body>
     </Card>
     </CardGroup>
